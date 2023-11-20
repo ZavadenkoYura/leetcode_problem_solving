@@ -1,2 +1,3 @@
 def python_func():
-    pass
+    print("Hello world")
+    
